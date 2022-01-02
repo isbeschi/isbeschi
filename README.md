@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Beschi I S, Academician &Research Scholar 
+- 👋 Hi, I’m Beschi I S, Academician & Research Scholar 
 - 👀 I’m interested in Data Science & IoT
 - 🌱 I’m currently learning Data Science
 - - 📫 To reach me isbeschi@gmail.com
